@@ -1,0 +1,3304 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<CodeTable>
+	<CodeTableInfo>
+		<InfoItem name="date">22-11-2005</InfoItem>
+	</CodeTableInfo>
+	<CodeRecordList>
+		<CodeRecord>
+			<CodeID>BCCR</CodeID>
+			<CodeDescription>BCCR Credit Rating</CodeDescription>
+			<CodeProperty name="codeid">BCCR</CodeProperty>
+			<CodeProperty name="description">BCCR Credit Rating</CodeProperty>
+			
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>kredietwaardigheid</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>kredietbeoordelen</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>credit risk</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>rating agency</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>credit analyst</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>head of credit</InstanceDescription>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BCD</CodeID>
+			<CodeDescription>BCD  Equity -Derivatives</CodeDescription>
+			<CodeProperty name="codeid">BCD</CodeProperty>
+			<CodeProperty name="description">BCD  Equity -Derivatives</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>derivatives trader</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>options trader</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>derivaten handelaar</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>marketmaker</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>analyst structured derivatives</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager structured derivatives</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vp structured derivatives</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>director structured derivatives</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vice president structured derivatives</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>associate structured derivatives</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>head of structured derivatives</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>structured derivatives trader</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager etd (exchange traded deritaves)</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BCE</CodeID>
+			<CodeDescription>BCE  Equity Capital markets</CodeDescription>
+			<CodeProperty name="codeid">BCE</CodeProperty>
+			<CodeProperty name="description">BCE  Equity Capital markets</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>institutional sales</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager equity capital markets</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager ecm</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>director ecm</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>director equity capital markets</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>associate ecm</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>associate equity capital markets</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>equity capital markets</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>analyst ecm</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>analyst equity capital markets</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vice president ecm</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vice president equity capital markets</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vp ecm</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vp equity capital markets</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>head of ecm</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>head of equity capital markets</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>equity analyst</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BCF</CodeID>
+			<CodeDescription>BCF  Fixed Income/Debt Capital markets</CodeDescription>
+			<CodeProperty name="codeid">BCF</CodeProperty>
+			<CodeProperty name="description">BCF  Fixed Income/Dept Capital markets</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>manager debt capital markets</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager dcm</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>director dcm</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>director debt capital markets</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>associate dcm</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>associate debt capital markets</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>advisor debt capital markets</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>analyst dcm</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>analyst debt capital markets</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>head of dcm</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>head of debt capital markets</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager fixed income</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>director fixed income</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>associate fixed income</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>analyst fixed income</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>head of fixed income</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vice president fixed income</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vp fixed income</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vice president dcm</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vice president debt capital markets</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vp dcm</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vp debt capital markets</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager financial markets</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>director financial markets</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>associate financial markets</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>analyst financial markets</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>head of financial markets</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vice president financial markets</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vp financial markets</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vice president dcm</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BCR</CodeID>
+			<CodeDescription>BCR  Real Estate</CodeDescription>
+			<CodeProperty name="codeid">BCR</CodeProperty>
+			<CodeProperty name="description">BCR  Real Estate</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>vastgoed</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>onroerend goed</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>properties</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>property</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>property analyst</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BCT</CodeID>
+			<CodeDescription>BCT  Treasury/Forex</CodeDescription>
+			<CodeProperty name="codeid">BCT</CodeProperty>
+			<CodeProperty name="description">BCT  Treasury/Forex</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>treasury</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>forex</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>treasurer</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>foreign exchange</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>buitenlands betalingsverkeer</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>money market dealer</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>trader money market</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>foreign exchange</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>valutahandelaar</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>treasury and investment</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>back office treasury</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BCTM</CodeID>
+			<CodeDescription>BCTM Trader Dealer / support</CodeDescription>
+			<CodeProperty name="codeid">BCTM</CodeProperty>
+			<CodeProperty name="description">BCTM Trader Dealer / support</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>trader</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>dealer</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>handelaar</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>institutional trader</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>independent researcher and trader</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BEC</CodeID>
+			<CodeDescription>BEC  Research-(listed) Comps</CodeDescription>
+			<CodeProperty name="codeid">BEC</CodeProperty>
+			<CodeProperty name="description">BEC  Research-(listed) Comps</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>equity research</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>equity analist</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>aandelenanalist</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>aandelen analist</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>equity research analyst</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>portfolio analyst</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BEM</CodeID>
+			<CodeDescription>BEM  Research-Macro/Reg.Econ.</CodeDescription>
+			<CodeProperty name="codeid">BEM</CodeProperty>
+			<CodeProperty name="description">BEM  Research-Macro/Reg.Econ.</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>fund analist</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>fund analyst</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>econoom</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BES</CodeID>
+			<CodeDescription>BES  Research-Sectors</CodeDescription>
+			<CodeProperty name="codeid">BES</CodeProperty>
+			<CodeProperty name="description">BES  Research-Sectors</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>sector analist</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>sector analyst</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>sectoranalist</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>sectoranalyst</InstanceDescription>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BGS</CodeID>
+			<CodeDescription>BGS  General Strategist</CodeDescription>
+			<CodeProperty name="codeid">BGS</CodeProperty>
+			<CodeProperty name="description">BGS  General Strategist</CodeProperty>
+			<InstanceList/>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BICM</CodeID>
+			<CodeDescription>BICM Corporate Finance - M&amp;A</CodeDescription>
+			<CodeProperty name="codeid">BICM</CodeProperty>
+			<CodeProperty name="description">BICM Corporate Finance - M&amp;A</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>adviseur fusies en overnames</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>advisor mergers &amp; acquisitions</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>adviseur m&amp;a</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>advisor m&amp;a</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>m&amp;a advisor</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>fusies &amp; overname specialist</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>analyst corporate finance</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager corporate finance</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vp corporate finance</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>director corporate finance</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vice president corporate finance</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>associate corporate finance</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BICO</CodeID>
+			<CodeDescription>BICO Corporate Finance Other</CodeDescription>
+			<CodeProperty name="codeid">BICO</CodeProperty>
+			<CodeProperty name="description">BICO Corporate Finance Other</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>corporate finance</InstanceDescription>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BIGC</CodeID>
+			<CodeDescription>BIGC Payments/Cashman./clearin/custody</CodeDescription>
+			<CodeProperty name="codeid">BIGC</CodeProperty>
+			<CodeProperty name="description">BIGC Payments/Cashman./clearin/custody</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>cash management</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BIGO</CodeID>
+			<CodeDescription>BIGO Securities Services/GTS</CodeDescription>
+			<CodeProperty name="codeid">BIGO</CodeProperty>
+			<CodeProperty name="description">BIGO Securities Services/GTS</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>securities services</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>transactions services</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>advisor securities services</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>analyst securities services</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager securities services</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vp securities services</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>director securities services</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vice president securities services</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>associate securities services</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>advisor transaction services</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>analyst transaction services</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager transaction services</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vp transaction services</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>director transaction services</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vice president transaction services</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>associate transaction services</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>advisor working capital</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>analyst working capital</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager working capital</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vp working capital</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>director working capital</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vice president working capital</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>associate working capital</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>senior credit executive</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BILC</CodeID>
+			<CodeDescription>BILC Cred.Struct./Str.Finance</CodeDescription>
+			<CodeProperty name="codeid">BILC</CodeProperty>
+			<CodeProperty name="description">BILC Cred.Struct./Str.Finance</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>loan products</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>syndicated loans</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>credit structuring</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>structured finance</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>accountmanager loan products</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>analyst loan products</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager loan products</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vp loan products</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>director loan products</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vice president loan products</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>associate loan products</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>head of loan products</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager structured lending</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vp structured lending</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>director structured lending</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vice president structured lending</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>associate structured lending</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>head of structured lending</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>accountmanager structured finance</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>analyst structured finance</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager structured finance</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vp structured finance</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>director structured finance</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vice president structured finance</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>associate structured finance</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>head of structured finance</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>tätigkeit senior-credit-analyst</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BILF</CodeID>
+			<CodeDescription>BILF Commodity Finance</CodeDescription>
+			<CodeProperty name="codeid">BILF</CodeProperty>
+			<CodeProperty name="description">BILF Commodity Finance</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>trade finance</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>trade &amp; commodity finance</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>trade and commodity finance</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>accountmanager trade &amp; commodity finance</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>accountmanager trade finance</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>account manager trade &amp; commodity finance</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager trade and commodity finance</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vp trade &amp; commidity finance</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vice president trade &amp; commodity finance</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BILI</CodeID>
+			<CodeDescription>BILI Pre-IPO Funding</CodeDescription>
+			<CodeProperty name="codeid">BILI</CodeProperty>
+			<CodeProperty name="description">BILI Pre-IPO Funding</CodeProperty>
+			<InstanceList/>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BILO</CodeID>
+			<CodeDescription>BILO Loan Products Other</CodeDescription>
+			<CodeProperty name="codeid">BILO</CodeProperty>
+			<CodeProperty name="description">BILO Loan Products Other</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>specialised lending</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>leveraged finance</InstanceDescription>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BILP</CodeID>
+			<CodeDescription>BILP Project Finance</CodeDescription>
+			<CodeProperty name="codeid">BILP</CodeProperty>
+			<CodeProperty name="description">BILP Project Finance</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>project financiering</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>analyst project finance</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager project finance</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vp project finance</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>director project finance</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vice president project finance</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>associate project finance</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>project financing</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>advisory position</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BIO</CodeID>
+			<CodeDescription>BIO  Origination</CodeDescription>
+			<CodeProperty name="codeid">BIO</CodeProperty>
+			<CodeProperty name="description">BIO  Origination</CodeProperty>
+			<InstanceList/>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BIS</CodeID>
+			<CodeDescription>BIS  Syndication</CodeDescription>
+			<CodeProperty name="codeid">BIS</CodeProperty>
+			<CodeProperty name="description">BIS  Syndication</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>head of syndicated loans</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>associate syndicated loans</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>analyst syndicated loans</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager syndicated loans</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vp syndicated loans</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>director syndicated loans</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vice president syndicated loans</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager syndication</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>syndication manager</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vp syndication</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>svp syndication</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>director syndication</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>head of syndication</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vice president syndication</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>head of loan syndications</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>associate loan syndications</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>analyst loan syndications</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager loan syndications</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vp loan syndications</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>director loan syndications</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vice president loan syndications</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BOB</CodeID>
+			<CodeDescription>BOB  Back Office</CodeDescription>
+			<CodeProperty name="codeid">BOB</CodeProperty>
+			<CodeProperty name="description">BOB  Back Office</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>manager back office</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager reconciliation</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>back-officemedewerker</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>coordinator / teamleider acceptatie- &amp; polis afdeling</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BOM</CodeID>
+			<CodeDescription>BOM  Middle Office</CodeDescription>
+			<CodeProperty name="codeid">BOM</CodeProperty>
+			<CodeProperty name="description">BOM  Middle Office</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>manager mid office</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager midoffice</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>medewerker mid-office</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BPBA</CodeID>
+			<CodeDescription>BPBA Beleggingsadviseur</CodeDescription>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>beleggings adviseur</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>beleggingsspecialist</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>accountmanager beleggen</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>adviseur beleggen</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>adviseur beleggingen</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BPEP</CodeID>
+			<CodeDescription>BPEP Estate Planning</CodeDescription>
+			<CodeProperty name="codeid">BPEP</CodeProperty>
+			<CodeProperty name="description">BPEP Estate Planning</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>estate planner</InstanceDescription>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BPFP</CodeID>
+			<CodeDescription>BPFP Financial Planning</CodeDescription>
+			<CodeProperty name="codeid">BPFP</CodeProperty>
+			<CodeProperty name="description">BPFP Financial Planning</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>financial planner</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>financieel planner</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>accountmanager financial planning</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>adviseur financiële planing</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BPO</CodeID>
+			<CodeDescription>BPO  Private Banking Other</CodeDescription>
+			<CodeProperty name="codeid">BPO</CodeProperty>
+			<CodeProperty name="description">BPO  Private Banking Other</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>manager preferred banking</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager wealth management</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager private banking</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>head of preferred banking</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>head of wealth management</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>head of private banking</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>hoofd preferred banking</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>hoofd wealth management</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>hoofd private banking</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>accountmanager preferred banking</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>accountmanager wealth management</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>accountmanager private banking</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>beleggingsadviseur (tijdelijke functie)</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>senior beleggingsadviseur</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BPP</CodeID>
+			<CodeDescription>BPP  Portfolio Management</CodeDescription>
+			<CodeProperty name="codeid">BPP</CodeProperty>
+			<CodeProperty name="description">BPP  Portfolio Management</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>portefeuille beheerder</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>assetmanager</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>asset manager</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>portefeuille manager</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>portfoliomanager</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>fundmanager</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>fund manager</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BQAC</CodeID>
+			<CodeDescription>BQAC Actuary</CodeDescription>
+			<CodeProperty name="codeid">BQAC</CodeProperty>
+			<CodeProperty name="description">BQAC Actuary</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>actuariaat</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>actuarieel</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>actuaris</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>actuarial</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>actuarieel rekenaar</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>medewerker actuariaat</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>actuary</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>hoofd actuariaat</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BQAL</CodeID>
+			<CodeDescription>BQAL Asset &amp; Liability Management</CodeDescription>
+			<CodeProperty name="codeid">BQAL</CodeProperty>
+			<CodeProperty name="description">BQAL Asset &amp; Liability Management</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>alm</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>asset and liability management</InstanceDescription>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BQAS</CodeID>
+			<CodeDescription>BQAS Asset Securitisation</CodeDescription>
+			<CodeProperty name="codeid">BQAS</CodeProperty>
+			<CodeProperty name="description">BQAS Asset Securitisation</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>securiturisatie</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>securitisation</InstanceDescription>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BQE</CodeID>
+			<CodeDescription>BQE  Econometrist</CodeDescription>
+			<CodeProperty name="codeid">BQE</CodeProperty>
+			<CodeProperty name="description">BQE  Econometrist</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>econometry</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>econometrie</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>econometrics</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BR</CodeID>
+			<CodeDescription>BR   Consumer/Retail Banking</CodeDescription>
+			<CodeProperty name="codeid">BR</CodeProperty>
+			<CodeProperty name="description">BR   Consumer/Retail Banking</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>kleinakelijk bankieren</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>consumenten bankieren</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>consumer banking</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>retail banking</InstanceDescription>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BRFA</CodeID>
+			<CodeDescription>BRFA retail banking - fin. Advisor</CodeDescription>
+			<CodeProperty name="codeid">BRFA</CodeProperty>
+			<CodeProperty name="description">BRFA retail banking - fin. Advisor</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>financieel adviseur</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>financial advisor</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>adviseur particulieren</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>accountmanager particulieren</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>accountmanager retail</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BRH</CodeID>
+			<CodeDescription>BRH  retail banking - morgage (hypo)</CodeDescription>
+			<CodeProperty name="codeid">BRH</CodeProperty>
+			<CodeProperty name="description">BRH  retail banking - morgage (hypo)</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>hypotheek</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>mortgage</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>hypothecair</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>hypotheken</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>hypotheekadviseur</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>mortgage advisor</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>hypothecair adviseur</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>adviseur hypotheken</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BRI</CodeID>
+			<CodeDescription>BRI  retail banking - insurance</CodeDescription>
+			<CodeProperty name="codeid">BRI</CodeProperty>
+			<CodeProperty name="description">BRI  retail banking - insurance</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>verzekeringsadviseur</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>insurance advisor</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>adviseur verzekeringen</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BRMC</CodeID>
+			<CodeDescription>BRMC Credit Risk Management</CodeDescription>
+			<CodeProperty name="codeid">BRMC</CodeProperty>
+			<CodeProperty name="description">BRMC Credit Risk Management</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>krediet risico</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>kredietrisico</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>krediet beoordeling</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>credit risk analist</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>kredietvoorstellen</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>krediet analyst</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>kredietanalyst</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>kredietanalist</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>credit analyst</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>credit risk analist</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>credit risk analyst</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager credit risk</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>credit riskmanager</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>credit risk manager</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>risk manager credit</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>head of  operational risk management</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>senior - risk advisory services</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BRMM</CodeID>
+			<CodeDescription>BRMM Market Risk Management</CodeDescription>
+			<CodeProperty name="codeid">BRMM</CodeProperty>
+			<CodeProperty name="description">BRMM Market Risk Management</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>market riskmanager</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>market risk manager</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>analyst market risk</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>risk manager market risk</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager market risk</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>analyst marktrisico</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>market risk analyst</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>markt risico analist</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>BVC</CodeID>
+			<CodeDescription>BVC  Venture Capital/Private Equity</CodeDescription>
+			<CodeProperty name="codeid">BVC</CodeProperty>
+			<CodeProperty name="description">BVC  Venture Capital/Private Equity</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>participatiemaatschappij</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>participatiemaatschappijen</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>venture capital</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>risicodragend vermogen</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>informal investor</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>participaties</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>investment manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>investment manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>investments</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>participations</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>private equity</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>participations</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>associate</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>participatiemaatschappij</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>participatiemaatschappijen</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>venture capital</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>associate private equity</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>investment manager</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>analyst private equity</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>private equity analyst</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>director private equity</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>investment director</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>CCFC</CodeID>
+			<CodeDescription>CCFC Functional Consultant</CodeDescription>
+			<CodeProperty name="codeid">CCFC</CodeProperty>
+			<CodeProperty name="description">CCFC Functional Consultant</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>functional consultant</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>functioneel implementatie consultant</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>sap consultant (functional)</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>functioneel adviseur</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>functioneel consultant</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>funtional advisor</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>oprichter, trainer, consultant</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>consulent</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>consultancy</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>consultant / trainer</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>freelance consultant marketing</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>CCFS</CodeID>
+			<CodeDescription>CCFS Consultant Fin Services</CodeDescription>
+			<CodeProperty name="codeid">CCFS</CodeProperty>
+			<CodeProperty name="description">CCFS Consultant Fin Services</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>Consultant Financial Services</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>Financial Consultant</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>Financieel Consultant</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>Financial Business Consultant</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>Consultant Financial Management</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>Fainancial Management Consultant</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>consultant financiele dienstverlening</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>consultant fin services</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>consultant (ao/ ic) &amp; quality manager; business controls consultant(ao/ ic</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>adviseur administratieve organisatie</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>CCIC</CodeID>
+			<CodeDescription>CCIC Investment Consulting</CodeDescription>
+			<CodeProperty name="codeid">CCIC</CodeProperty>
+			<CodeProperty name="description">CCIC Investment Consulting</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>Investment Consultant</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>Consultant Investments</InstanceDescription>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>CCMB</CodeID>
+			<CodeDescription>CCMB Man / Buss Consultant</CodeDescription>
+			<CodeProperty name="codeid">CCMB</CodeProperty>
+			<CodeProperty name="description">CCMB Man / Buss Consultant</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>business consultant</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>(senior) business consultants</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>organisatieconsultant</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>business consultants operational &amp; analytical</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>Management Consultant</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>Senior Management Consultant</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>buss consultant</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>organisatieadviseur</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>business consultant</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>(senior) business consultants</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>senior consultant</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>junior consultant</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>consultant</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>organisatieconsultant</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>managing consultant</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>m&amp;a consultant</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>senior consultant</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>business consultants</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>management consultant</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>sr. management consultant</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>senior management consultant</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>buss consultant</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>freelance consultant</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>senior adviseur</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>international business consultant</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>independent consultant</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>business management consultant</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>programma kwaliteitsconsultant</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>adviseur management control</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>bedrijfskundig adviseur</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>CCPC</CodeID>
+			<CodeDescription>CCPC Presales Consultant</CodeDescription>
+			<CodeProperty name="codeid">CCPC</CodeProperty>
+			<CodeProperty name="description">CCPC Presales Consultant</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>consultant presales</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>sales support consultant</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>presales support engineer</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>sales consultant</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>Sales Consultant</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>selling consultant e-business</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>CCSC</CodeID>
+			<CodeDescription>CCSC Strategy Consulting</CodeDescription>
+			<CodeProperty name="codeid">CCSC</CodeProperty>
+			<CodeProperty name="description">CCSC Strategy Consulting</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>Strategy Consultant</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>Consultant Strategy</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>m&amp;a consultant</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>CCTC</CodeID>
+			<CodeDescription>CCTC Technical Consultant</CodeDescription>
+			<CodeProperty name="codeid">CCTC</CodeProperty>
+			<CodeProperty name="description">CCTC Technical Consultant</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>sap consultant sd/mm</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>qa consultant</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>technical support specialist</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>sap consultant mm/sd</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>sap r/3 consultant mm at db systems gmbh</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>sap r/3 consultant</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>technisch adviseur</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>sap consultant</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>sap / abap consultant</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>abap consultant</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>itil-consultancy</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>sap r/3 business consultant sales &amp; logistics</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>sap consultant (functional, co- ordination of project)</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>sap consultant mm on an upgrading project</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>analist/sas consultant</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>technical consultant</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>it-consultant</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>sap consultant (member of project team)</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>sap implementatie consultant</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>functional and technical consultancy</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>technisch consultant</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>consultant microsoft</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>consulting Engineer</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>sap consultant (intern)</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>senior technical consultant</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>internet consultant</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>implementatie consultant</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>consultant / coördinator testcentrum</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>senior technical analyst</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>programma consultant</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>CPCO</CodeID>
+			<CodeDescription>CPCO Project Coordinator</CodeDescription>
+			<CodeProperty name="codeid">CPCO</CodeProperty>
+			<CodeProperty name="description">CPCO Project Coordinator</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>project coordinator</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>projectcoördinator</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>project materialen coördinator</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>project coördinator</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>siebel adviseur projecten</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>CPCS</CodeID>
+			<CodeDescription>CPCS Project Consultant</CodeDescription>
+			<CodeProperty name="codeid">CPCS</CodeProperty>
+			<CodeProperty name="description">CPCS Project Consultant</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>project consultant</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>global advisors</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>CPM</CodeID>
+			<CodeDescription>CPM  Project Manager / Leider</CodeDescription>
+			<CodeProperty name="codeid">CPM</CodeProperty>
+			<CodeProperty name="description">CPM  Project Manager / Leider</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>projectleider</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>interim en projectmanager</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>meewerkend projectleider</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>projectleader 'special projects'</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>project manager/business consultant</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>interim it manager/ senior projectmanager</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>lijnmanager, projectmanager</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>projectmedewerker / projectleider</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>project leider</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>zelfstandig projectmanager/ projectadviseur</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>senior projectmanager</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>consultant / project leader</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>projectleider ontvlechting ict-infrastructuur</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>project coördinator</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>projectleider / business architect</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>consultant, project leader</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>senior project manager</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>project leider / systeembeheerder</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>assistant projectleader</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>it outsourctasking projectleider</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>project manager wap</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager/projectmanager</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>projectleider it manager outsourcing</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>projectmanager, uitvoerend consultant</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>analist/projectleider</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>projectmanager e-business</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>project coordinator /quality assurance specialist</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>projectontwerper</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>projectleider computercentrum</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>projectmanager nieuwe media</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>projectleider/consultant</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>project leader/senior analyst</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>project manager / account manager</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>projectmanagement</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>project manager / initiator</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>project leader / developer</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>developer / project leader</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>projectleider ontwikkeling commerciële software</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>projectleader</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>projectleider quality assurance</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>projectleider/ontwerper</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>network integrations project manager</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>qa project leader</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>projectleider implementatie erp-pakket</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>projectleider implementatie projectem</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>project leader</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>interim project manager</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>projectleider on-site-services</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>projectleider</InstanceDescription>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>projectmanager</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>project manager ad interim</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>project manager</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>project director</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>contract manager</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager project controls</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>project manager concept development</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>senior adviseur/projectleider</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager special projects</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>districtsmanager projecten</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>project development</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>migratiecoördinator</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>projectmanager competentie-management</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>hoofd technische dienst / project manage</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>international rollout manager</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>projectleider e-commerce</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>projectmanager bedrijfsvoering jgz</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>assistent project manager</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>operationeel projectleider</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager internationale projecten</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>CPO</CodeID>
+			<CodeDescription>CPO  Project Officer/ support</CodeDescription>
+			<CodeProperty name="codeid">CPO</CodeProperty>
+			<CodeProperty name="description">CPO  Project Officer/ support</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>project officer</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>support officer</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>project support</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>project development; project administrator; general monthly reporting regarding the assigned projects</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>project assistent; assistent</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>projectmedewerker servicepunt facultatieve</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>projectmedewerker sap</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>project medewerker</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>projectmedewerker</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>medewerker projectenbureau</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>EDEC</CodeID>
+			<CodeDescription>EDEC Design</CodeDescription>
+			<CodeProperty name="codeid">EDEC</CodeProperty>
+			<CodeProperty name="description">EDEC Design</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>designer</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>ontwerper</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vormgever</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>design engineer</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager  productontwerp</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>hoofd vormgeving</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager design</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>productontwerper</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager productdesign</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>functioneel ontwerper</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>EENC</CodeID>
+			<CodeDescription>EENC Engineering</CodeDescription>
+			<CodeProperty name="codeid">EENC</CodeProperty>
+			<CodeProperty name="description">EENC Engineering</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>engineer</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>engineering manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manufacturing manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>production manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager production</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>product engineer</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>project engineer</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>test engineer</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>productie directeur</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>directeur productie</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>technisch directeur</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>directeur techniek</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>technisch manager</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vice president engineering</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>logistic engineer</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>hoofd service</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>elektricien</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>technical service engineer / process design technician</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>EFC</CodeID>
+			<CodeDescription>EFC  Facility Manager</CodeDescription>
+			<CodeProperty name="codeid">EFC</CodeProperty>
+			<CodeProperty name="description">EFC  Facility Manager</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>facilitair manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>facility manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>project manager facilitair</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager facilities</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager facilitaire zaken</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>coördinator huisvesting &amp; service</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>EOPC</CodeID>
+			<CodeDescription>EOPC Operations</CodeDescription>
+			<CodeProperty name="codeid">EOPC</CodeProperty>
+			<CodeProperty name="description">EOPC Operations</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>manager operations</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>operations manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>operation manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>medewerker operations</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>director operations</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager bedrijfsbureau</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>BU manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>teamleider</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>programmamanager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>programma manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>program manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>programmanager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>exploitatief medewerker</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>coo</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>chief operational officer</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>bedrijfsleider/plantmanager</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>productie manager</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>outbound supervisor</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>operationeel manager</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>packing voorman</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>proces &amp; performance controller</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>operationeel directeur</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>EP</CodeID>
+			<CodeDescription>EP   Purchasing</CodeDescription>
+			<CodeProperty name="codeid">EP</CodeProperty>
+			<CodeProperty name="description">EP   Purchasing</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>purchaser</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>medewerker inkoop</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>hoofd inkoop</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>head purchase</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>inkoop</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>inkoper</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>procurement manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager procurement</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>buyer</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>commodity buyer</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>Sr buyer</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>Senior buyer</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>inkoop manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>procurement specialist</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>inkoop coordinator</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>senior inkoper</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>strategisch inkoper</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>tactisch inkoper</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>strategic buyer</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>tactical buyer</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>supply manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>sourcing manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>contracts manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>procurement consultant</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vendor manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>operationeel inkoper</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>interim hoofd inkoop</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>operations manager; materials manager</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>senior purchasing manager</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>buying assistant</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>senior buyer facilitaire zaken</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>vendor manager / account manager</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>assistant inkoop</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>account manager inkoop bedrijfsmiddelen</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>planner/buyer</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>materials management procurement</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>technical buyer</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>EPAF</CodeID>
+			<CodeDescription>EPAF Planning, Analysis,Forecasting</CodeDescription>
+			<CodeProperty name="codeid">EPAF</CodeProperty>
+			<CodeProperty name="description">EPAF Planning, Analysis,Forecasting</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>planner</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>medewerker planning</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>parts planner</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>planning manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>assistent planner</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>werkvoorbereider / planner</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>EQUC</CodeID>
+			<CodeDescription>EQUC Quality</CodeDescription>
+			<CodeProperty name="codeid">EQUC</CodeProperty>
+			<CodeProperty name="description">EQUC Quality</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>kwaliteits manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager kwaliteit</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager kam</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>kam manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>kam</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>arbo</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>millieu</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>medewerker kwaliteit</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>quality manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>kwaliteitsmanager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>QHSE Manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>Manager QHSE</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>Hoofd Kwaliteit</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>QA Manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>Medical Advisor</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>medewerker veiligheid en millieu</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>she manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>safety health environmental</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>haccp</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>qesh</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>haccp manager</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>qesh-adviseur</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>lead auditor; quality manager</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>kwaliteitsmedewerker</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>quality system analyst</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>medewerker quality assurance</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>interne iso auditor</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>quality assurance manager</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>ERDC</CodeID>
+			<CodeDescription>ERDC Research/Development &amp; Test</CodeDescription>
+			<CodeProperty name="codeid">ERDC</CodeProperty>
+			<CodeProperty name="description">ERDC Research/Development &amp; Test</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>researcher</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>developer</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager R&amp;D</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>R&amp;D medewerker</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>Manager Research &amp; Development</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>hoofd research &amp; development</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>hoofd ontwikkeling</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>R&amp;D Manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>R&amp;D Engineer</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>Research &amp; Development Engineer</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>Research &amp; Development manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>hoofd R&amp;D</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>head R&amp;D</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>laboratorium manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>hoofd laboratorium</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>chef lab</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>head of packaging development</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		<CodeRecord>
+			<CodeID>ESC</CodeID>
+			<CodeDescription>ESC  Supply Chain</CodeDescription>
+			<CodeProperty name="codeid">ESC</CodeProperty>
+			<CodeProperty name="description">ESC  Supply Chain</CodeProperty>
+			<InstanceList>
+				<Instance>
+					<InstanceDescription>manager logistiek</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>logistiek medewerker</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager logistiek &amp; supply chain</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>logistiek manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>manager logistics</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>supply chain manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>supply chain consultant</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>SC projectmanager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>director supply chain</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>SC Analyst</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>ass. line manager</InstanceDescription>
+				</Instance>
+				<Instance>
+					<InstanceDescription>assistant line manager</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>logistics coördinator</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>transportplanner</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">manual</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>reverse logistics &amp; security officer</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>deputy logistics officer</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+				<Instance>
+					<InstanceDescription>logistic manager</InstanceDescription>
+					<InstanceProperty name="confidence">100</InstanceProperty>
+					<InstanceProperty name="transfer">auto-update</InstanceProperty>
+				</Instance>
+			</InstanceList>
+		</CodeRecord>
+		</CodeRecordList>
+</CodeTable>
