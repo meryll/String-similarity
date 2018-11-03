@@ -1,5 +1,5 @@
 import unittest
-from textkernel.utils import collections_utils
+from sources.utils import collections_utils
 
 
 class TestCollectionsUtils(unittest.TestCase):

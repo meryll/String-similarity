@@ -1,5 +1,5 @@
 import xml.etree.ElementTree
-from sources.utils import random_utils, text_utils
+from String_similarity.sources.utils import random_utils, text_utils
 
 
 def read(file_path):

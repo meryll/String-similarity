@@ -1,5 +1,5 @@
 import unittest
-from textkernel.data_io import data_reader
+from sources.data_io import data_reader
 
 
 class TestDataReader(unittest.TestCase):

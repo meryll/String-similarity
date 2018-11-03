@@ -1,5 +1,5 @@
 import unittest
-from textkernel.data_io import data_writer
+from sources.data_io import data_writer
 
 
 class TestDataWriter(unittest.TestCase):

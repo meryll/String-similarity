@@ -1,5 +1,5 @@
 import unittest
-from textkernel.utils import text_utils
+from sources.utils import text_utils
 
 
 class TestDataProvider(unittest.TestCase):

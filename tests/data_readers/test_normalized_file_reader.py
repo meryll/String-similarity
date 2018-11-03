@@ -1,5 +1,5 @@
 import unittest
-from textkernel.data_io import _normalized_file_reader
+from sources.data_io import _normalized_file_reader
 
 class TestNormalizedFileReader(unittest.TestCase):
 
