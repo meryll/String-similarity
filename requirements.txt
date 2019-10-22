@@ -44,7 +44,7 @@ packaging==17.1
 pandas==0.23.4
 patch==1.16
 picklable-itertools==0.1.1
-Pillow==5.1.0
+Pillow==6.2.0
 pluginbase==0.5
 protobuf==3.6.1
 Pygments==2.2.0
